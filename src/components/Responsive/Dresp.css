@@ -93,6 +93,20 @@
         width: 212px;
     }
 
+    .contact-form .toggle-btn input{
+        font-size: 18px;
+    }
+
+    .contact-form .toggle-btn a i{
+        width: 2px;
+        height: 25px;
+    }
+
+    .contact-form .toggle-btn a:hover i{
+        width: 25px;
+        height: 2px;
+    }
+
     .contact-right img {
         height: 350px;
     }

@@ -186,6 +186,10 @@
         width: 20px;
         height: 2px;
     }
+    
+    .contact-form .toggle-btn input{
+        font-size: 18px;
+    }
 
     .contact-right{
         display: none;

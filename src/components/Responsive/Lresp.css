@@ -124,6 +124,10 @@
         width: 100%;
     }
 
+    .contact-form .toggle-btn input{
+        font-size: 21px;
+    }
+
     .contact-right img{
         height: 300px;
     }
