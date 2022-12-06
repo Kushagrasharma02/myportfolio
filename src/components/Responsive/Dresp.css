@@ -1,0 +1,100 @@
+@media only screen and (min-width:1024px) and (max-width:1200px) {
+
+    /* Home  */
+
+    .top p {
+        font-size: 20px;
+    }
+
+    .center .toggle-btn h1 {
+        font-size: 60px;
+    }
+
+    .toggle-btn a {
+        margin-top: 0;
+        width: 175px;
+        height: 49px;
+    }
+
+    .center-img img {
+        height: 300px;
+    }
+
+    .bottom h1 {
+        font-size: 50px;
+    }
+
+    .bottom .btm-txt p {
+        font-size: 20px;
+    }
+
+    /* About  */
+
+    .About {
+        margin: 6% 0 1% 0;
+    }
+
+    .abt-left {
+        width: 45%;
+        padding-left: 0;
+    }
+
+    .abt-left p {
+        font-size: 44px;
+        padding-left: 20px;
+    }
+
+    .abt-right {
+        width: 55%;
+        padding: 15px 40px;
+    }
+
+    .abt-right .abt-right-txt {
+        padding: 10px 0;
+    }
+
+    /* Skill  */
+
+    .skill-container {
+        padding: 14px;
+    }
+
+    .skill-details {
+        padding: 12px 20px;
+    }
+
+    .skill-container .skill-txt {
+        padding: 16px 0;
+    }
+
+    .text p {
+        font-size: 18px;
+    }
+
+    .text h1 {
+        font-size: 45px;
+    }
+
+    .skill-gif img {
+        height: 265px;
+    }
+
+    /* Contact  */
+
+    .contact-form header p:first-child {
+        font-size: 18px;
+    }
+
+    .contact-form header h1 {
+        font-size: 50px;
+    }
+
+    .contact-form .form-group .toggle-btn a {
+        width: 212px;
+    }
+
+    .contact-right img {
+        height: 350px;
+    }
+
+}

@@ -1,0 +1,196 @@
+@media only screen and (min-width:480px) and (max-width:768px){
+
+    /* Home  */
+
+    .top{
+        margin: 20px 0;
+        flex-direction: column;
+        align-items: flex-start;
+        padding-left: 0;
+    }
+
+    .top p{
+        width: 30%;
+        font-size: 16px;
+    }
+
+    .line{
+        width: 100%;
+    }
+
+    .center{
+        padding: 20px;
+        margin: 75px 10px;
+    }
+
+    .center-img{
+        display: none;
+    }
+
+    .center .toggle-btn{
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .center .toggle-btn h1{
+        width: 60%;
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .center .toggle-btn a{
+        font-size: 1rem;
+        width: 165px;
+        height: 40px;
+        margin-top: 0;
+    }
+
+    .center .toggle-btn a i{
+        height: 20px;
+        width: 2px;
+    }
+
+    .center .toggle-btn a:hover i{
+        width: 20px;
+        height: 2px;
+    }
+
+    .bottom{
+        margin: 20px 0;
+        margin-left: 0;
+    }
+
+    .bottom h1{
+        font-size: 45px;
+    }
+
+    .bottom .btm-txt{
+        flex-direction: column;
+    }
+
+    .bottom .btm-txt p{
+        width: 39%;
+        align-self: flex-end;
+        text-align: center;
+        font-size: 16px;
+    }
+
+    /* About  */
+
+    .About{
+        margin: 6% 0;
+    }
+
+    .abt-container{
+        flex-direction: column;
+    }
+
+    .abt-left{
+        width: 100%;
+        flex-direction: row;
+        align-items: center;
+        padding-left: 0;
+    }
+
+    .abt-left p {
+        width: 50%;
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .abt-img {
+        margin-top: 0;
+        text-align: end;
+        width: 50%;
+    }
+
+    .abt-img img {
+        height: 170px;
+    }
+
+    .abt-right{
+        width: 100%;
+        padding: 11px 20px;
+    }
+
+    .abt-right .abt-right-txt {
+        padding: 18px 0;
+    }
+
+    /* Skill */
+
+    .skill-container{
+        padding: 16px;
+        flex-direction: column-reverse;
+    }
+
+    .skill-right{
+        padding: 0;
+        width: 100%;
+    }
+
+    .skill-right .text{
+        width: 80%;
+    }
+
+    .skill-right .text p{
+        font-size: 16px;
+    }
+
+    .skill-right .text h1{
+        width: 50%;
+        font-size: 45px;
+    }
+
+    .skill-gif{
+        display: none;
+    }
+
+    .skill-left{
+        width: 100%;
+        flex-direction: column-reverse;
+    }
+
+    .skill-left .skill-txt{
+        padding: 18px 0;
+    }
+
+    .skill-details{
+        padding: 20px;
+    }
+
+    /* Contact  */
+
+    .contact-form{
+        width: 100%;
+    }
+
+    .contact-form header p:first-child {
+        font-size: 16px;
+    }
+
+    .contact-form header h1 {
+        font-size: 45px;
+    }    
+
+    .contact-form .toggle-btn a{
+        width: 215px;
+        font-size: 1rem;
+    }
+
+    .contact-form .toggle-btn a i{
+        height: 20px;
+        width: 2px;
+    }
+
+    .contact-form .toggle-btn a:hover i{
+        width: 20px;
+        height: 2px;
+    }
+
+    .contact-right{
+        display: none;
+    }
+
+}
